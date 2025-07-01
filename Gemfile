@@ -29,7 +29,7 @@ gem "solid_queue"
 gem "solid_cable"
 
 # Use Tailwind CSS for styling [https://tailwindcss.com]
-gem "tailwindcss-rails", "~> 2.3"
+gem "tailwindcss-rails", "~> 4.2"
 
 # Use the latest version of Ruby on Rails [
 
